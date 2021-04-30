@@ -8,3 +8,16 @@
 
 - Link hosted app on firebase : https://tinder-clone-6b5fe.web.app/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
